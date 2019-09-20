@@ -31,7 +31,7 @@
         "doctrine/dbal": "2.5.13",
         "intervention/image": "^2.3",
         "tymon/jwt-auth": "~0.5",
-        "pragmarx/google2fa": "^0.7.1",
+        "pragmarx/google2fa": "^6.0.1",
         "andywer/js-localization": "dev-laravel-5",
         "fideloper/proxy": "~3.3",
         "socialiteproviders/gitlab": "^3.0",
